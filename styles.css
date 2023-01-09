@@ -1,0 +1,46 @@
+#text {
+    border-radius: 25px;
+    max-width: 45%;
+}
+
+#as_form {
+    margin: 1%;
+}
+
+.nav-link {
+    color: black;
+    font-size: small;
+}
+
+#link:hover {
+    color: black;
+    text-decoration: underline black;
+}
+
+.img-fluid {
+    width: 25%;
+}
+
+#searchButton {
+    margin: 1%;
+}
+
+#mono {
+    font-family: monospace;
+}
+
+#title {
+    color: rgb(231, 89, 76);
+    font-size: large;
+    font-weight:650
+}
+
+#as_image {
+    float: left;
+    width: 6%;
+    margin: 1.5%;
+}
+
+#as_div {
+    padding: 2%;
+}
